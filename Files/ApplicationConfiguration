@@ -1,0 +1,8 @@
+{
+  "data_base": {
+    "type_database": "sqlite",
+    "name_database": "main",
+    "default_name_database": "default",
+    "default_dir_database": "FileDataBase"
+  }
+}
